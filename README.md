@@ -71,3 +71,24 @@ Use binary files instead of text files
 
 📄 License  
 This project is created for learning and educational purposes only.
+
+---
+
+## How to Run
+1. Open the project in Visual Studio.
+2. Make sure `Clients.txt` is located in the same directory as the executable.
+3. Build the project.
+4. Run the application.
+
+---
+
+## Learning Notes
+This project highlights common real-world issues when working with files in C++, such as:
+- Working directory confusion
+- Relative vs absolute paths
+- Hidden file extensions (e.g. `.txt.txt`)
+- File opening failures and debugging techniques
+
+These challenges were intentionally resolved as part of the learning process.
+
+
