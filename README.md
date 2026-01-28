@@ -64,8 +64,5 @@ You can test the system using the following sample data inside Clients.txt:
 - Convert the project to a full OOP design
 - Use binary files instead of text files
 
-## 📄 License
-This project is created for learning and educational purposes only.
-
 ## 📝 Learning Notes
 This project highlights common real-world issues when working with files in C++, such as working directory confusion, relative vs absolute paths, hidden file extensions (e.g. .txt.txt), file opening failures, and debugging techniques. These challenges were intentionally encountered and resolved as part of the learning process.
