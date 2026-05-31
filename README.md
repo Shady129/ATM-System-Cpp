@@ -1,4 +1,4 @@
-# 🏧 ATM System – C++ Console Application
+# 🏧 ATM Banking Management System
 <p align="center">
   <img src="Images/ATM-Poster.png" width="100%">
 </p>
