@@ -1,5 +1,7 @@
 # 🏧 ATM System – C++ Console Application
-
+<p align="center">
+  <img src="Images/ATM-Poster.png" width="100%">
+</p>
 A C++ console-based ATM system that simulates real-world ATM operations with a strong focus on clean code, file handling, and structured programming. The project demonstrates how a complete banking workflow can be implemented using basic C++ concepts without external libraries or databases.
 
 ## 🚀 Features
